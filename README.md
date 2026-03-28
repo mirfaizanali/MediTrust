@@ -240,8 +240,9 @@ Frontend starts at **http://localhost:4200**
 ## 👤 Author
 
 **Your Name**
-- GitHub: Faizan(https://github.com/yourusername)
-- LinkedIn: - (https://linkedin.com/in/yourprofile)
+- GitHub: https://github.com/mirfaizanali
+- LinkedIn: - www.linkedin.com/in/mir-faizan-ali-62a18a282
+
 
 ---
 
